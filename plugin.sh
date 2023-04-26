@@ -17,3 +17,12 @@ chmod +x /usr/local/bin/add-trojan-user
 chmod +x /usr/local/bin/del-ssh-user
 chmod +x /usr/local/bin/del-vmess-user
 chmod +x /usr/local/bin/del-trojan-user
+
+
+#Path trojan
+mkdir /usr/local/hidessh
+cd /usr/local/hidessh
+wget -O /usr/local/hidessh/trojan.txt "https://raw.githubusercontent.com/LawVPN/Developers/main/trojan.txt"
+wget -O /usr/local/hidessh/trojangrpc.txt "https://raw.githubusercontent.com/LawVPN/Developers/main/trojangrpc.txt"
+sleep 3
+cd
