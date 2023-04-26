@@ -23,6 +23,6 @@ chmod +x /usr/local/bin/del-trojan-user
 mkdir /usr/local/hidessh
 cd /usr/local/hidessh
 wget -O /usr/local/hidessh/trojan.txt "https://raw.githubusercontent.com/LawVPN/Developers/main/trojan.txt"
-wget -O /usr/local/hidessh/trojangrpc.txt "https://raw.githubusercontent.com/LawVPN/Developers/main/trojangrpc.txt"
+wget -O /usr/local/hidessh/trojangprc.txt "https://raw.githubusercontent.com/LawVPN/Developers/main/trojangrpc.txt"
 sleep 3
 cd
