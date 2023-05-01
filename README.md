@@ -9,5 +9,5 @@ cd; wget https://raw.githubusercontent.com/LawVPN/Developers/main/plugin.sh; chm
 
 Vinstechmy
 ```
-cd; rm setup.sh; wget https://raw.githubusercontent.com/LawVPN/Developers/vinstechmy/setup.sh; chmod +x setup.sh; ./setup.sh; rm setup.sh
+cd; rm setup.sh; wget https://raw.githubusercontent.com/LawVPN/Developers/main/vinstechmy/setup.sh; chmod +x setup.sh; ./setup.sh; rm setup.sh
 ```
